@@ -22,13 +22,19 @@
       "title": "scoop",
       "body": "shoop de woop",
       "author": "yoshi",
-      "id": 4
+      "id": 5
     },
     {
-      "title": "scoop",
-      "body": "shoop de woop",
+      "title": "another blog",
+      "body": "by mario, not yoshi",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "i am crazy",
+      "body": "ajhwekfjlghefsdjafhbdnsjhgbdsjghkfsaebdfkghjsfayeusgbajwkehfbsdjb",
       "author": "yoshi",
-      "id": 5
+      "id": 7
     }
   ]
 }
